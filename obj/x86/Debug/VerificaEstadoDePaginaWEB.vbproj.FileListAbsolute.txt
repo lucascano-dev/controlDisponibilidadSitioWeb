@@ -1,0 +1,22 @@
+C:\Users\ElCapo\Documents\Visual Studio 2010\Projects\VerificaEstadoDePaginaWEB\VerificaEstadoDePaginaWEB\bin\Debug\VerificaEstadoDePaginaWEB.exe
+C:\Users\ElCapo\Documents\Visual Studio 2010\Projects\VerificaEstadoDePaginaWEB\VerificaEstadoDePaginaWEB\bin\Debug\VerificaEstadoDePaginaWEB.pdb
+C:\Users\ElCapo\Documents\Visual Studio 2010\Projects\VerificaEstadoDePaginaWEB\VerificaEstadoDePaginaWEB\bin\Debug\VerificaEstadoDePaginaWEB.xml
+C:\Users\ElCapo\Documents\Visual Studio 2010\Projects\VerificaEstadoDePaginaWEB\VerificaEstadoDePaginaWEB\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ElCapo\Documents\Visual Studio 2010\Projects\VerificaEstadoDePaginaWEB\VerificaEstadoDePaginaWEB\obj\x86\Debug\VerificaEstadoDePagina.Form1.resources
+C:\Users\ElCapo\Documents\Visual Studio 2010\Projects\VerificaEstadoDePaginaWEB\VerificaEstadoDePaginaWEB\obj\x86\Debug\VerificaEstadoDePagina.Resources.resources
+C:\Users\ElCapo\Documents\Visual Studio 2010\Projects\VerificaEstadoDePaginaWEB\VerificaEstadoDePaginaWEB\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\ElCapo\Documents\Visual Studio 2010\Projects\VerificaEstadoDePaginaWEB\VerificaEstadoDePaginaWEB\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\ElCapo\Documents\Visual Studio 2010\Projects\VerificaEstadoDePaginaWEB\VerificaEstadoDePaginaWEB\obj\x86\Debug\VerificaEstadoDePaginaWEB.exe
+C:\Users\ElCapo\Documents\Visual Studio 2010\Projects\VerificaEstadoDePaginaWEB\VerificaEstadoDePaginaWEB\obj\x86\Debug\VerificaEstadoDePaginaWEB.xml
+C:\Users\ElCapo\Documents\Visual Studio 2010\Projects\VerificaEstadoDePaginaWEB\VerificaEstadoDePaginaWEB\obj\x86\Debug\VerificaEstadoDePaginaWEB.pdb
+C:\Users\Lucas Cano\source\repos\NET\VerificarEstadoDePaginaWeb\VerificaEstadoDePaginaWEB\bin\Debug\VerificaEstadoDePaginaWEB.exe
+C:\Users\Lucas Cano\source\repos\NET\VerificarEstadoDePaginaWeb\VerificaEstadoDePaginaWEB\bin\Debug\VerificaEstadoDePaginaWEB.pdb
+C:\Users\Lucas Cano\source\repos\NET\VerificarEstadoDePaginaWeb\VerificaEstadoDePaginaWEB\bin\Debug\VerificaEstadoDePaginaWEB.xml
+C:\Users\Lucas Cano\source\repos\NET\VerificarEstadoDePaginaWeb\VerificaEstadoDePaginaWEB\obj\x86\Debug\VerificaEstadoDePaginaWEB.vbproj.AssemblyReference.cache
+C:\Users\Lucas Cano\source\repos\NET\VerificarEstadoDePaginaWeb\VerificaEstadoDePaginaWEB\obj\x86\Debug\VerificaEstadoDePagina.Form1.resources
+C:\Users\Lucas Cano\source\repos\NET\VerificarEstadoDePaginaWeb\VerificaEstadoDePaginaWEB\obj\x86\Debug\VerificaEstadoDePagina.Resources.resources
+C:\Users\Lucas Cano\source\repos\NET\VerificarEstadoDePaginaWeb\VerificaEstadoDePaginaWEB\obj\x86\Debug\VerificaEstadoDePaginaWEB.vbproj.GenerateResource.cache
+C:\Users\Lucas Cano\source\repos\NET\VerificarEstadoDePaginaWeb\VerificaEstadoDePaginaWEB\obj\x86\Debug\VerificaEstadoDePaginaWEB.vbproj.CoreCompileInputs.cache
+C:\Users\Lucas Cano\source\repos\NET\VerificarEstadoDePaginaWeb\VerificaEstadoDePaginaWEB\obj\x86\Debug\VerificaEstadoDePaginaWEB.exe
+C:\Users\Lucas Cano\source\repos\NET\VerificarEstadoDePaginaWeb\VerificaEstadoDePaginaWEB\obj\x86\Debug\VerificaEstadoDePaginaWEB.xml
+C:\Users\Lucas Cano\source\repos\NET\VerificarEstadoDePaginaWeb\VerificaEstadoDePaginaWEB\obj\x86\Debug\VerificaEstadoDePaginaWEB.pdb
